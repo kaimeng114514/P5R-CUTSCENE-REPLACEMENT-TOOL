@@ -8,6 +8,7 @@
 ![平台](https://img.shields.io/badge/platform-Windows%20x64-0078D4)
 ![游戏](https://img.shields.io/badge/game-Persona%205%20Royal-1B3FBB)
 ![许可](https://img.shields.io/badge/license-非商业用途-green)
+<img width="1280" height="669" alt="屏幕截图 2026-09-11 220123" src="https://github.com/user-attachments/assets/fb83530b-882c-48c2-b4f3-77a5eb1ba9dc" />
 
 ---
 

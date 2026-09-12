@@ -27,6 +27,9 @@
 - **清除所有记录并重置** —— 主界面一键清除导入/替换记录并删除预览缓存，恢复初始状态
 - **撤销替换** —— 可随时撤销已标记的视频替换
 - **技术调查报告** —— 帮助菜单内置完整逆向工程报告（13 章），含双音轨 Bug、HCA 加密音频陷阱、时长限制等核心发现
+
+  <img width="432" height="383" alt="屏幕截图 2026-09-12 105447" src="https://github.com/user-attachments/assets/79fe2a82-c10f-4093-88c6-10f604570ad0" />
+
 - **魔罗彩蛋** —— 作者栏旁趣味彩蛋弹窗
 
   <img width="502" height="323" alt="屏幕截图 2026-09-12 022647" src="https://github.com/user-attachments/assets/6c6fcd16-85a5-4309-a3f4-76d301b5a18e" />

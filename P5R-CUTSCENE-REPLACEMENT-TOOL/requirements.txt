@@ -1,0 +1,6 @@
+# P5R 过场动画工具依赖
+# 安装：py -3.10 -m pip install -r requirements.txt
+cricodecs>=1.2.0
+# 内嵌视频预览（画面渲染 + 音轨播放）
+pygame>=2.1
+Pillow>=10.0
